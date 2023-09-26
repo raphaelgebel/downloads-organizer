@@ -1,4 +1,4 @@
-# downloadsorganizer
+# downloads-organizer
 Automatically organizes your downloads folder.
 
 ## Example
